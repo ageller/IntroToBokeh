@@ -4,4 +4,6 @@ Interactive figures allow you and others to dive in and explore your data in rea
 
 If you don't have Python or Bokeh installed on your computer, but want to run the notebook, you can use the [version on Google colab linked here.](https://colab.research.google.com/drive/1ByHW4y21BJui69NcnRDXaz0UDzq-hdTD?usp=sharing)
 
+A live version of the plot from this workshop is available [here](https://ageller.github.io/IntroToBokeh/scatterSelect.html).
+
 If you need a multi-dimensional data set to explore, you can look [here.](https://github.com/ageller/IDEAS_FSS-Vis/tree/master/datasets)
